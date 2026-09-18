@@ -348,3 +348,6 @@ int main()
     return 0;
 }
 ```
+
+# Prueba de LaTeX
+$$Id = k \cdot [(V_{\text{gs}} - V_{\text{t}}) \cdot V_{\text{ds}} - \frac{V_{\text{ds}}^{2}}{2}]$$$
