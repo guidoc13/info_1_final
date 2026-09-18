@@ -17,15 +17,15 @@ Notas:
         - Una IP identifica una conexión de una red IP.
         - Las direcciones IP tienen 32 bits.
         - Hay tres clases de direcciones unicast (comunicación uno a uno) A, B y C
-            - Clase A: redes muy grandes. El rango de ip es desde 1.0.0.0 a 126.255.255.255 
-                - RED: 8 bits
-                - HOST: 24 bits 
-            - Clase B: redes medianas a grandes. El rango de ip es desde 128.0.0.0 a 191.255.255.255
-                - RED: 16 bits
-                - HOST: 16 bits 
-            - Clase C: redes pequeñas. El rango de ip es desde 192.0.0.0 a 223.255.255.255
-                - RED: 24 bits
-                - HOST: 8 bits 
+            -- Clase A: redes muy grandes. El rango de ip es desde 1.0.0.0 a 126.255.255.255 
+                --- RED: 8 bits
+                --- HOST: 24 bits 
+            -- Clase B: redes medianas a grandes. El rango de ip es desde 128.0.0.0 a 191.255.255.255
+                --- RED: 16 bits
+                --- HOST: 16 bits 
+            -- Clase C: redes pequeñas. El rango de ip es desde 192.0.0.0 a 223.255.255.255
+                --- RED: 24 bits
+                --- HOST: 8 bits 
         - Las direcciones IP de Broadcast sirven para enviar mensajes a toda la red.
         - **Todos** los paquetes tienen IP de origen y destino.
         - Un router analiza las IP de destino y elige hacia donde enviar el paquete.
