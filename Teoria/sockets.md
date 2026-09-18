@@ -350,4 +350,4 @@ int main()
 ```
 
 # Prueba de LaTeX
-$$Id = k \cdot [(V_{\text{gs}} - V_{\text{t}}) \cdot V_{\text{ds}} - \frac{V_{\text{ds}}^{2}}{2}]$$$
+$$Id = k \cdot [(V_{\text{gs}} - V_{\text{t}}) \cdot V_{\text{ds}} - \frac{V_{\text{ds}}^{2}}{2}]$$
